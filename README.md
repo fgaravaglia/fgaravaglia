@@ -1,10 +1,9 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-
+<h1 align="center">Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :woman_technologist: &nbsp;About Me :
-
-I am an Enterprise Architect and .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+.Net software architect & agile coach, 
+I am an Enterprise Architect and .NET Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+Postit-addicted, Domain Driven Design supporter, Business Value Mediator
 
 - 🔭 I’m working as a Software Engineer and contributed to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
@@ -59,9 +58,7 @@ Glad to see you! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_i
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgaravaglia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![Snake animation](https://github.com/fgaravaglia/fgaravaglia/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### ✍️ Blog Posts : 
 
