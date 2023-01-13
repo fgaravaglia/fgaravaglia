@@ -63,9 +63,6 @@ Glad to see you! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_i
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fgaravaglia&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgaravaglia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
 ---
 
 
