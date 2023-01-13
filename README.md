@@ -13,7 +13,6 @@ Postit-addicted, Domain Driven Design supporter, Business Value Mediator
 
 Glad to see you! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=fgaravaglia.fgaravaglia)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={fgaravaglia}&theme=vue)
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
