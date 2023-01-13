@@ -5,7 +5,7 @@
 I am an Enterprise Architect and .NET Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 Postit-addicted, Domain Driven Design supporter, Business Value Mediator
 
-- 🔭 I’m working as a Software Engineer and contributed to frontend and backend for building web applications.
+- 🔭 I used to work as a Software Engineer and contributed to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I play keyboard, mix and master music, enjoy Photography
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fgaravaglia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-garavaglia-3333653b/) 
