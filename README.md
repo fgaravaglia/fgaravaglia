@@ -11,8 +11,8 @@ Postit-addicted, Domain Driven Design supporter, Business Value Mediator, Podcas
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-fgaravaglia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-garavaglia-3333653b/) 
 &nbsp; [![Twitter fgarava83](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fshields.io)](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ffgarava83)
 
-My Newsletter:  [![My Newsletter](https://www.linkedin.com/newsletters/modern-digital-architectures-7036459282896150528/)](https://www.linkedin.com/newsletters/modern-digital-architectures-7036459282896150528/)
-<iframe src='https://widget.spreaker.com/player?show_id=5779022&theme=dark&playlist=show&playlist-continuous=true&chapters-image=true' width='100%' height='400px' frameborder='0'></iframe>
+My Newsletter:  [My Newsletter](https://www.linkedin.com/newsletters/modern-digital-architectures-7036459282896150528/)
+
 
 Glad to see you! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=fgaravaglia.fgaravaglia)
 
