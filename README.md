@@ -3,7 +3,7 @@
 ### :woman_technologist: &nbsp;About Me :
 .Net cloud architect & agile coach, 
 I am an Enterprise Architect and .NET Architect <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
-Postit-addicted, Domain Driven Design supporter, Business Value Mediator, Podcaster
+Domain Driven Design supporter, Business Value Mediator, Podcaste, AI & AUtometion Expert
 
 - 🔭 I used to work as a Software Engineer and contributed to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
